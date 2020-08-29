@@ -1,4 +1,4 @@
-
+Instruction set completion project for a CPU with below features.
 
 16-bit Instruction Word (IW) of ProjectCPU:
 

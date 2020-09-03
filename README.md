@@ -4,11 +4,11 @@ Instruction set completion project for a CPU with below features.
 
                                     IW 
                     |----------------------------------|
-                    |15    13 | 12                    0| bit position
+     bit position   |15    13 | 12                    0| 
                     |----------------------------------|
-                    | opcode |           A             | field name
+     field name     | opcode |           A             | 
                     |----------------------------------|
-                    |   3b   |          13b            | bit width
+     bit width      |   3b   |          13b            | 
                     |----------------------------------|
 	       
 			   
